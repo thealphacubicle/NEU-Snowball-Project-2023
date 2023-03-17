@@ -998,3 +998,7 @@ quotient
 teeth
 shell
 neck
+wine
+flavor
+alcohol
+taste
