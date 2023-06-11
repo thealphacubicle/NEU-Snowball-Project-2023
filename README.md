@@ -9,5 +9,5 @@ consistently growing, it's important to stay on top of consumer's choices. That'
 be able to predict what wine selections consumers would like.
 
 ## Mockup Demo
-<strong>Looking for a demo?</strong>Feel free to view our demo below here:
+<strong>Looking for a demo?</strong> Feel free to view our demo below here:
 https://drive.google.com/file/d/1VqoM4s2Fue9xbA-IgE_WWeov8kRo2KDG/view?usp=sharing
